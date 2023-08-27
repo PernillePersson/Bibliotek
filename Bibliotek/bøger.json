@@ -1,0 +1,177 @@
+[
+  {
+    "Id": 1,
+    "Titel": "placerat. Cras",
+    "År": 2004,
+    "Forlag": "Duis",
+    "Udlånt": true
+  },
+  {
+    "Id": 2,
+    "Titel": "eu odio tristique",
+    "År": 1985,
+    "Forlag": "mi",
+    "Udlånt": true
+  },
+  {
+    "Id": 3,
+    "Titel": "egestas. Sed",
+    "År": 1978,
+    "Forlag": "nec",
+    "Udlånt": true
+  },
+  {
+    "Id": 4,
+    "Titel": "Nunc pulvinar arcu",
+    "År": 1978,
+    "Forlag": "non",
+    "Udlånt": false
+  },
+  {
+    "Id": 5,
+    "Titel": "massa. Suspendisse eleifend. Cras",
+    "År": 1969,
+    "Forlag": "neque",
+    "Udlånt": true
+  },
+  {
+    "Id": 6,
+    "Titel": "nec urna",
+    "År": 2018,
+    "Forlag": "semper",
+    "Udlånt": false
+  },
+  {
+    "Id": 7,
+    "Titel": "lobortis ultrices. Vivamus rhoncus.",
+    "År": 1963,
+    "Forlag": "ad",
+    "Udlånt": true
+  },
+  {
+    "Id": 8,
+    "Titel": "amet diam",
+    "År": 1973,
+    "Forlag": "Integer",
+    "Udlånt": true
+  },
+  {
+    "Id": 9,
+    "Titel": "non leo. Vivamus nibh dolor,",
+    "År": 1984,
+    "Forlag": "erat",
+    "Udlånt": false
+  },
+  {
+    "Id": 10,
+    "Titel": "iaculis, lacus pede sagittis",
+    "År": 2015,
+    "Forlag": "est,",
+    "Udlånt": false
+  },
+  {
+    "Id": 11,
+    "Titel": "turpis.",
+    "År": 1994,
+    "Forlag": "Nunc",
+    "Udlånt": false
+  },
+  {
+    "Id": 12,
+    "Titel": "lacinia orci, consectetuer euismod",
+    "År": 1964,
+    "Forlag": "in,",
+    "Udlånt": true
+  },
+  {
+    "Id": 13,
+    "Titel": "velit.",
+    "År": 2012,
+    "Forlag": "ut",
+    "Udlånt": false
+  },
+  {
+    "Id": 14,
+    "Titel": "fermentum",
+    "År": 2011,
+    "Forlag": "Sed",
+    "Udlånt": true
+  },
+  {
+    "Id": 15,
+    "Titel": "pretium aliquet,",
+    "År": 1975,
+    "Forlag": "commodo",
+    "Udlånt": false
+  },
+  {
+    "Id": 16,
+    "Titel": "Suspendisse",
+    "År": 1981,
+    "Forlag": "Sed",
+    "Udlånt": false
+  },
+  {
+    "Id": 17,
+    "Titel": "pulvinar arcu et",
+    "År": 2008,
+    "Forlag": "Curae",
+    "Udlånt": false
+  },
+  {
+    "Id": 18,
+    "Titel": "auctor. Mauris",
+    "År": 2016,
+    "Forlag": "eu",
+    "Udlånt": false
+  },
+  {
+    "Id": 19,
+    "Titel": "cursus luctus, ipsum leo elementum",
+    "År": 1969,
+    "Forlag": "feugiat.",
+    "Udlånt": true
+  },
+  {
+    "Id": 20,
+    "Titel": "sit amet ornare lectus",
+    "År": 2009,
+    "Forlag": "Nam",
+    "Udlånt": false
+  },
+  {
+    "Id": 21,
+    "Titel": "a neque.",
+    "År": 2018,
+    "Forlag": "Vivamus",
+    "Udlånt": true
+  },
+  {
+    "Id": 22,
+    "Titel": "Nunc mauris elit, dictum eu,",
+    "År": 1962,
+    "Forlag": "ac",
+    "Udlånt": true
+  },
+  {
+    "Id": 23,
+    "Titel": "a, auctor non, feugiat",
+    "År": 1992,
+    "Forlag": "nec",
+    "Udlånt": true
+  },
+  {
+    "Id": 24,
+    "Titel": "et malesuada fames ac",
+    "År": 2009,
+    "Forlag": "primis",
+    "Udlånt": false
+  },
+  {
+    "Id": 25,
+    "Titel": "nibh. Donec est mauris, rhoncus",
+    "År": 2003,
+    "Forlag": "Nullam",
+    "Udlånt": false
+  }
+]

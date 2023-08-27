@@ -2,10 +2,10 @@ namespace Bibliotek;
 
 public class Bog
 {
-    public int id { get; set; }
-    public String titel { get; set; }
-    public String år { get; set; }
-    public String forlag { get; set; }
-    public bool udlånt { get; set; }
+    public int Id { get; set; }
+    public string Titel { get; set; } = null!;
+    public int År { get; set; }
+    public string Forlag { get; set; }
+    public bool Udlånt { get; set; }
     
 }

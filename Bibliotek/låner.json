@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "navn": "Vera Weber",
+    "adresse": "1672 Nascetur Rd.",
+    "tlf": "02833341",
+    "bøger lånt": "5, 11, 7, 1, 13"
+  },
+  {
+    "id": 2,
+    "navn": "Hyacinth Young",
+    "adresse": "579-3571 Ac Road",
+    "tlf": 28262111,
+    "bøger lånt": "15, 13, 11, 3, 17, 5"
+  },
+  {
+    "id": 3,
+    "navn": "Coby Sheppard",
+    "adresse": "745-9191 Sit Rd.",
+    "tlf": 89799246,
+    "bøger lånt": "3, 13"
+  },
+  {
+    "id": 4,
+    "navn": "Talon Goodwin",
+    "adresse": "7271 Penatibus St.",
+    "tlf": 86610648,
+    "bøger lånt": 19
+  },
+  {
+    "id": 5,
+    "navn": "Sara Greene",
+    "adresse": "767-8705 Eleifend Rd.",
+    "tlf": 70856182,
+    "bøger lånt": "1, 9, 15, 7"
+  },
+  {
+    "id": 6,
+    "navn": "Hanae Peters",
+    "adresse": "P.O. Box 938, 6686 Lobortis Road",
+    "tlf": 51796371,
+    "bøger lånt": "1, 5, 9, 17"
+  },
+  {
+    "id": 7,
+    "navn": "Samantha Golden",
+    "adresse": "363-1315 Est Ave",
+    "tlf": 37145480,
+    "bøger lånt": "11, 15"
+  },
+  {
+    "id": 8,
+    "navn": "Leandra Farrell",
+    "adresse": "Ap #962-722 Sem Street",
+    "tlf": "02526913",
+    "bøger lånt": "17, 5, 13, 7"
+  },
+  {
+    "id": 9,
+    "navn": "Colin Nicholson",
+    "adresse": "383-1411 Condimentum. Avenue",
+    "tlf": 11413413,
+    "bøger lånt": "7, 5"
+  },
+  {
+    "id": 10,
+    "navn": "Christopher Drake",
+    "adresse": "2138 Vel Rd.",
+    "tlf": 43973266,
+    "bøger lånt": "13, 1, 15, 9, 11, 3, 5"
+  },
+  {
+    "id": 11,
+    "navn": "Adrienne Cardenas",
+    "adresse": "Ap #971-1268 In Av.",
+    "tlf": 55124682,
+    "bøger lånt": "3, 9, 11"
+  },
+  {
+    "id": 12,
+    "navn": "Blaze Walker",
+    "adresse": "851-6801 Leo. Road",
+    "tlf": 12955676,
+    "bøger lånt": "7, 13, 1, 5, 3"
+  },
+  {
+    "id": 13,
+    "navn": "Avram Dickerson",
+    "adresse": "8777 Vel Rd.",
+    "tlf": 98897360,
+    "bøger lånt": "1, 17"
+  },
+  {
+    "id": 14,
+    "navn": "Maxine Campos",
+    "adresse": "P.O. Box 167, 4117 Fusce Rd.",
+    "tlf": 58623686,
+    "bøger lånt": "5, 9, 3, 19, 17, 13, 11"
+  },
+  {
+    "id": 15,
+    "navn": "Diana Snider",
+    "adresse": "Ap #355-6372 Nibh. Road",
+    "tlf": "03800851",
+    "bøger lånt": 5
+  },
+  {
+    "id": 16,
+    "navn": "Kato Bird",
+    "adresse": "Ap #989-6497 Natoque Rd.",
+    "tlf": 63160579,
+    "bøger lånt": 7
+  },
+  {
+    "id": 17,
+    "navn": "Kirestin Noel",
+    "adresse": "5188 Tellus Av.",
+    "tlf": 25421551,
+    "bøger lånt": "5, 17, 9, 7, 15, 1"
+  },
+  {
+    "id": 18,
+    "navn": "Heather Orr",
+    "adresse": "Ap #998-2389 Fringilla, Avenue",
+    "tlf": 38568844,
+    "bøger lånt": "17, 13, 3, 9, 15, 19"
+  },
+  {
+    "id": 19,
+    "navn": "Desirae Walker",
+    "adresse": "Ap #467-1680 Felis, Rd.",
+    "tlf": 56275210,
+    "bøger lånt": "11, 7, 1, 9, 15, 13"
+  },
+  {
+    "id": 20,
+    "navn": "Kasper Phelps",
+    "adresse": "P.O. Box 108, 9897 Consectetuer Avenue",
+    "tlf": 47113576,
+    "bøger lånt": "1, 15, 9"
+  },
+  {
+    "id": 21,
+    "navn": "Sylvester Marsh",
+    "adresse": "440-593 Velit Rd.",
+    "tlf": 47938259,
+    "bøger lånt": "3, 11, 5, 17, 1"
+  },
+  {
+    "id": 22,
+    "navn": "Carla Adams",
+    "adresse": "245-5655 Ut Rd.",
+    "tlf": 18741214,
+    "bøger lånt": "5, 17, 15, 11, 13, 19, 9, 1"
+  },
+  {
+    "id": 23,
+    "navn": "Anne Smith",
+    "adresse": "Ap #920-2577 Ipsum Street",
+    "tlf": 24682382,
+    "bøger lånt": "1, 17, 3, 19"
+  },
+  {
+    "id": 24,
+    "navn": "Patrick Bonner",
+    "adresse": "865-7792 Arcu. Rd.",
+    "tlf": 61395023,
+    "bøger lånt": "1, 3, 9, 13, 11, 19"
+  },
+  {
+    "id": 25,
+    "navn": "Jessamine Ramirez",
+    "adresse": "680-3370 Enim Av.",
+    "tlf": 62200873,
+    "bøger lånt": "5, 11"
+  }
+]
